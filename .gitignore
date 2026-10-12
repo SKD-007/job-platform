@@ -1,0 +1,8 @@
+# Binaries
+/bin/
+*.exe
+*.out
+main
+
+# environment variable
+.env
